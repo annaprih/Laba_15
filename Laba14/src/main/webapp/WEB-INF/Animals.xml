@@ -1,0 +1,12 @@
+<cats>
+    <cat>
+        <name>Suzanna</name>
+        <age>4</age>
+        <color>grey</color>
+    </cat>
+    <cat>
+        <name>Shans</name>
+        <age>12</age>
+        <color>black</color>
+    </cat>
+</cats>

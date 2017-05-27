@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Laba_15War:war exploded">
+    <output-path>$PROJECT_DIR$/Laba_15War/target/Laba_15War-1.0</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Laba_15War" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/Laba_15War/target/Laba_15War-1.0/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Laba_15War/web/Web" />
+    </root>
+  </artifact>
+</component>
